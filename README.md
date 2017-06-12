@@ -29,4 +29,6 @@
 : a continuacion ejecutan el siguiente comando **npm install http --save** esperan que termine la instalacion  
 : luego ejecutan **npm install node-static --save** esperan que termine la instalacion  
 : y despues ejecutan **npm install livereload --save** esperan que ternime la instalacion  
-**PASO-7**
+**PASO-7**  
+: luego crean un archivo **server.js** en la raiz del proyecto(ajc-ngrok)  
+: luego ponen el siguiente codigo ~~~ sjdxcjk ~~~
