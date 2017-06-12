@@ -6,6 +6,7 @@
 * Tener instalado GitBash link de descarga https://git-for-windows.github.io/  
 * Tener instalado GitHub link de descarga https://desktop.github.com/  
 * Tener instalado ngrok link de descarga https://ngrok.com/download  
+* Tener instalado node.js link descarga https://nodejs.org/es/
 * Tener instalado el editor de codigo de preferecia  
 **PASOS A SEGUIR:**  
 **PASO-1:**  
