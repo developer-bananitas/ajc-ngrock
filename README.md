@@ -15,13 +15,14 @@
 **PASO-3:**  
 : una vez abierto el programa se dirigen a la opcion File click en la opcion New repository y les abrira una pequeña ventana emergente con las siguientes opciones  
 **PASO-4:**  
-* en la ventana emergente les pedira Name el nombre del proyecto que van a crear ejemplo(ajc-ngrok)  
-* tambien les pedira Local path y dan click en el boton Choose y seleccionan la carpeta que crearon en el PASO-1  
-* luego marcan la opcion que dice initialize this repository with a README  
-* las demas dos opciones dejenlo en None  
-* por ultimo click Create repository  
+: en la ventana emergente les pedira Name el nombre del proyecto que van a crear ejemplo(ajc-ngrok)  
+: tambien les pedira Local path y dan click en el boton Choose y seleccionan la carpeta que crearon en el PASO-1  
+: luego marcan la opcion que dice initialize this repository with a README  
+: las demas dos opciones dejenlo en None  
+: por ultimo click Create repository  
 **PASO-5**  
-* ubicarnos en la carpeta creada ejemplo(C:\proyectos\ajc-ngrock)  
-* click derecho sobre la carpeta ir a la opcion Git Bash Here  
-* se les abrira la respectiva terminal en GitBash  
+los siguientes    
+: ubicarnos en la carpeta creada ejemplo(C:\proyectos\ajc-ngrock)  
+: click derecho sobre la carpeta ir a la opcion Git Bash Here  
+: se les abrira la respectiva terminal en GitBash  
 **PASO-6**
