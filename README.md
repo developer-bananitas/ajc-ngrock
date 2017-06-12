@@ -67,4 +67,5 @@ console.log("Servidor corriendo puerto" + port);
 **PASO-10**  
 : ahora abrimos el programa **ngrok.exe**  
 : luego escribimos **ngrok.exe http 3030**  
-: luego copias el enlace que te genera en la variable **Forwarding** cualquiera de los dos
+: luego copias el enlace que te genera en la variable **Forwarding** cualquiera de los dos  
+![Sin titulo](img/sonsosgg.png)
