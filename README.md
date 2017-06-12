@@ -33,6 +33,28 @@
 : luego crean un archivo **server.js** en la raiz del proyecto(ajc-ngrok)  
 : luego ponen el siguiente codigo  
 ~~~
-skldjklsa
+var nodestatic = require('node-static'),
+    port = 3000,
+    http = require ('http');
+
+var file = new nodestatic.Server('./public',{
+    cache:3600,
+    gzip:true
+});
+
+http.createServer(function(request,response){
+    request.addListener('end',function(){
+        file.serve(request,response);
+    }).resume();
+}).listen(port);
+
+var livereaload=require('livereload');
+var server = livereaload.createServer({
+    exts:['html','css','js']
+});
+
+server.watch(__dirname+"/public");
+
+console.log("Servidor corriendo puerto" + port);
 ~~~
 **PASO-8**
