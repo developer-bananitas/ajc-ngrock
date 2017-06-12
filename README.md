@@ -30,6 +30,7 @@
 : luego ejecutan **npm install node-static --save** esperan que termine la instalacion  
 : y despues ejecutan **npm install livereload --save** esperan que ternime la instalacion  
 **PASO-7**  
+: crean una carpeta llamada **public**  
 : luego crean un archivo **server.js** en la raiz del proyecto(ajc-ngrok)  
 : luego ponen el siguiente codigo  
 ~~~
@@ -57,4 +58,7 @@ server.watch(__dirname+"/public");
 
 console.log("Servidor corriendo puerto" + port);
 ~~~
-**PASO-8**
+**PASO-8**  
+: dentro de la carpeta **public** crean un archivo llamado **index.html**  
+: dentro del archivo **html** escriben la estructura basica de un documento **html**  
+:kjkj 
