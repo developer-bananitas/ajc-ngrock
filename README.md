@@ -35,7 +35,7 @@
 : luego ponen el siguiente codigo  
 ~~~
 var nodestatic = require('node-static'),
-    port = 3000,
+    port = 3030,
     http = require ('http');
 
 var file = new nodestatic.Server('./public',{
@@ -61,4 +61,6 @@ console.log("Servidor corriendo puerto" + port);
 **PASO-8**  
 : dentro de la carpeta **public** crean un archivo llamado **index.html**  
 : dentro del archivo **html** escriben la estructura basica de un documento **html**  
-:kjkj 
+**PASO-9**  
+: luego en la terminal ejecutan la liena de comando **node server.js**  
+: y se levantara el servidor en el puerto **3030**
