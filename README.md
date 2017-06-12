@@ -1,5 +1,5 @@
 # ajc-ngrock
-|||---- TUTORIAL CREACION SERVIDOR EN NODE.JS CON SU RESPECTIVA PUBLICACION EN NGROK ----|||
+# |||---- TUTORIAL CREACION SERVIDOR EN NODE.JS CON SU RESPECTIVA PUBLICACION EN NGROK ----|||
                POR FAVOR SIGAN LOS PASOS BIEN QUE LES DIRE A CONTINUACION
 PROGRAMAS NECESARIOS:
 Ojo antes de continuar con los siguientes pasos deben tener una cuenta creada en "GiHub"
