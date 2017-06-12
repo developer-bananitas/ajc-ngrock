@@ -66,4 +66,5 @@ console.log("Servidor corriendo puerto" + port);
 : y se levantara el servidor en el puerto **3030**  
 **PASO-10**  
 : ahora abrimos el programa **ngrok.exe**  
-: luego escribimos **ngrok.exe http 3030**
+: luego escribimos **ngrok.exe http 3030**  
+: luego copias el enlace que te genera en la variable **Forwarding** cualquiera de los dos
