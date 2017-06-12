@@ -1,5 +1,5 @@
 # ajc-ngrock
-# TUTORIAL CREACION SERVIDOR EN NODE.JS CON SU RESPECTIVA PUBLICACION EN NGROK
+# TUTORIAL CREACION SERVIDOR EN NODE.JS LIVERELOAD CON SU RESPECTIVA PUBLICACION EN NGROK
 ##               POR FAVOR SIGAN LOS PASOS BIEN QUE LES DIRE A CONTINUACION
 ### PROGRAMAS NECESARIOS:  
 #### Ojo antes de continuar con los siguientes pasos deben tener una cuenta creada en "GiHub"  
@@ -20,9 +20,10 @@
 : luego marcan la opcion que dice initialize this repository with a README  
 : las demas dos opciones dejenlo en None  
 : por ultimo click Create repository  
-**PASO-5**  
-los siguientes    
+**PASO-5**      
 : ubicarnos en la carpeta creada ejemplo(C:\proyectos\ajc-ngrock)  
 : click derecho sobre la carpeta ir a la opcion Git Bash Here  
 : se les abrira la respectiva terminal en GitBash  
-**PASO-6**
+**PASO-6**  
+: ejecutan la linea de comando **npm init** (lo demas ya saben)  
+: ashdjk 
