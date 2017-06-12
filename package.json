@@ -1,0 +1,24 @@
+{
+  "name": "ajc-ngrock",
+  "version": "1.0.0",
+  "description": "nrrok-cap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developer-bananitas/ajc-ngrock.git"
+  },
+  "author": "developer-bananitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developer-bananitas/ajc-ngrock/issues"
+  },
+  "homepage": "https://github.com/developer-bananitas/ajc-ngrock#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "livereload": "^0.6.2",
+    "node-static": "^0.7.9"
+  }
+}
