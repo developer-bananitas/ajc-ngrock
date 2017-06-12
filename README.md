@@ -2,7 +2,7 @@
 # TUTORIAL CREACION SERVIDOR EN NODE.JS CON SU RESPECTIVA PUBLICACION EN NGROK
 ##               POR FAVOR SIGAN LOS PASOS BIEN QUE LES DIRE A CONTINUACION
 ### PROGRAMAS NECESARIOS:  
-Ojo antes de continuar con los siguientes pasos deben tener una cuenta creada en "GiHub"  
+#### Ojo antes de continuar con los siguientes pasos deben tener una cuenta creada en "GiHub"  
 Tener instalado GitBash link de descarga https://git-for-windows.github.io/
 Tener instalado GitHub link de descarga https://desktop.github.com/
 Tener instalado ngrok link de descarga https://ngrok.com/download
