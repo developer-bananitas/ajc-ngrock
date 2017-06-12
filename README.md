@@ -20,3 +20,8 @@
 >* luego marcan la opcion que dice initialize this repository with a README  
 >* las demas dos opciones dejenlo en None  
 >* por ultimo click Create repository  
+**PASO-5**  
+>* ubicarnos en la carpeta creada ejemplo(C:\proyectos\ajc-ngrock)  
+>* click derecho sobre la carpeta ir a la opcion Git Bash Here  
+>* se les abrira la respectiva terminal en GitBash  
+**PASO-6**
