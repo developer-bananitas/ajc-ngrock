@@ -8,7 +8,7 @@
 * Tener instalado ngrok link de descarga https://ngrok.com/download  
 * Tener instalado el editor de codigo de preferecia  
 **PASOS A SEGUIR:**  
-**PASO-1:**  
+>**PASO-1:**  
 > crean una carpeta donde va estar todos sus proyectos ejemplo(C:\proyectos)  
 **PASO-2:**  
 > abren el programa GitHub inician sesion con su respectivo username and password  
