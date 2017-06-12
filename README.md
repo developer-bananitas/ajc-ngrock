@@ -26,4 +26,7 @@
 : se les abrira la respectiva terminal en GitBash  
 **PASO-6**  
 : ejecutan la linea de comando **npm init** (lo demas ya saben)  
-: ashdjk 
+: a continuacion ejecutan el siguiente comando **npm install http --save** esperan que termine la instalacion  
+: luego ejecutan **npm install node-static --save** esperan que termine la instalacion  
+: y despues ejecutan **npm install livereload --save** esperan que ternime la instalacion  
+**PASO-7**
