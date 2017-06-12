@@ -31,4 +31,7 @@
 : y despues ejecutan **npm install livereload --save** esperan que ternime la instalacion  
 **PASO-7**  
 : luego crean un archivo **server.js** en la raiz del proyecto(ajc-ngrok)  
-: luego ponen el siguiente codigo ~~~ sjdxcjk ~~~
+: luego ponen el siguiente codigo  
+~~~
+skldjklsa
+~~~
