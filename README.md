@@ -34,5 +34,5 @@
 : luego ponen el siguiente codigo  
 ~~~
 skldjklsa
-~~~  
+~~~
 **PASO-8**
