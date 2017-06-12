@@ -63,4 +63,7 @@ console.log("Servidor corriendo puerto" + port);
 : dentro del archivo **html** escriben la estructura basica de un documento **html**  
 **PASO-9**  
 : luego en la terminal ejecutan la liena de comando **node server.js**  
-: y se levantara el servidor en el puerto **3030**
+: y se levantara el servidor en el puerto **3030**  
+**PASO-10**  
+: ahora abrimos el programa **ngrok.exe**  
+: luego escribimos **ngrok.exe http 3030**
